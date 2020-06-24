@@ -1,0 +1,32 @@
+<resources>
+    <!--nombre app-->
+    <string name="app_name">LibOnboarding</string>
+
+    <!--pantalla uno-->
+    <string name="title1">Hello!</string>
+    <string name="desc1">Implementacion de libreria onboarding</string>
+
+    <!--pantalla dos-->
+    <string name="title2">SOME</string>
+    <string name="desc2">Se tiene como objetivo adquirir conocimientos acerca de desarrollo de Apps en Android</string>
+
+    <!--pantalla tres-->
+    <string name="title3">Inscripcion</string>
+    <string name="desc3">Univ.: Jhelson Carrillo Ortega</string>
+
+    <!--botonera-->
+    <string name="next">Siguiente</string>
+    <string name="back">Atrás</string>
+    <string name="done">Finalizar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Login-->
+    <string name="email">Email</string>
+    <string name="pwd">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+
+</resources>
+
